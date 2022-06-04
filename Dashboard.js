@@ -44,6 +44,10 @@ PERSIAPAN KERJA
   2. SublimeText
   3. Browser acuan dan display
 -------------------------------------------------------------------------------------------------------------------------------
+PRAKTEK KERJA
+1. Buat Templat Dashboard Dengan Sidebar Responsive Bootstrap dan simpan github untuk template berikutnya
+2. Skema Hirarki Responsive
+    
 
 
 
