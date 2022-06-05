@@ -47,6 +47,12 @@ PERSIAPAN KERJA
 PRAKTEK KERJA
 1. Buat Templat Dashboard Dengan Sidebar Responsive Bootstrap dan simpan github untuk template berikutnya
 2. Skema Hirarki Responsive
+    - DASHBOARD ADMIN
+      KONTAINER
+        Sidebar
+          
+        Body
+          navbar
     
 
 
