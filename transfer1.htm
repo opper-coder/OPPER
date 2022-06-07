@@ -1,34 +1,109 @@
 <!DOCTYPE html>
 <html>
-<style>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Hello Templat W3 Bulma</title>
+   <!--  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css"> -->
+   <!-- <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css"> -->
+    <link rel="stylesheet" href="style/bulma.css">
+    <link rel="stylesheet" href="style/index.css">
+    <link rel="stylesheet" href="style/w3.css">
+    <!-- font -->
+    <!-- icon -->
+  </head>
+  <body>
+      <!-- ========================================== -->
+<style>  
+ /*utility------------*/
+html, body {
+  height: 100%;
+}
+.warnaTbUtama{
+  background-color:#727cf5 ;
+  color: #f1f3fa;
+}
+
+ /*sidebar*/
+.sidebarBox{
+  background-color: #313a46;
+  width: 70px;
+  height: 100%;
+  margin-bottom: 0;
+  margin-top: 0;
+  display: flex;
+  flex-direction: column;
+}
 .sidemenu {
   position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 54px;
+  background-color: #313a46;
+  color: white;
+  /*border: 1px dotted white;*/
+
 }
 .sidemenu .menudrop {
   visibility: hidden;
-  width: 120px;
+  width: 200px;
+  height: 300;
   background-color: black;
   color: #fff;
   position: absolute;
   z-index: 1;
+  left: 70px;
+  top: 0px;
 }
 .sidemenu:hover .menudrop {
   visibility: visible;
 }
+.sidemenu:hover {
+  background-color:#727cf5 ;
+  color: #f1f3fa;
+}
+.menuPertama{
+  height: 54px;
+  background-color:#727cf5 ;
+  color: #f1f3fa;
+  display: flex;
+  align-items: center;
+  padding-left: 10px;
+}
+.menuKedua{
+  height: 54px;
+  background-color:#20262e ;
+  color: #f1f3fa;
+  display: flex;
+  /*justify-content: center;*/
+  align-items: center;
+}
 </style>
-<body>
-
-<div class="sidemenu">satu
-  <span class="menudrop">Tooltip text</span>
+<!--  -->
+<div class="sidebarBox">
+  <div class="sidemenu">satu
+    <div class="menudrop"><ul>
+      <li class="menuPertama">coba</li>
+      <li class="menuPertama menuKedua">coba</li>
+      <li class="menuPertama menuKedua">coba</li>
+      <li class="menuPertama menuKedua">coba</li>
+    </ul></div>
+  </div>
+  <div class="sidemenu">dua
+    <div class="menudrop">Tooltip text</div>
+  </div>
+  <div class="sidemenu">tiga
+    <div class="menudrop">Tooltip text</div>
+  </div>
+  <div class="sidemenu">empat
+    <div class="menudrop">Tooltip text</div>
+  </div>
 </div>
-<div class="sidemenu">dua
-  <span class="menudrop">Tooltip text</span>
-</div>
-<div class="sidemenu">tiga
-  <span class="menudrop">Tooltip text</span>
-</div>
-<div class="sidemenu">empat
-  <span class="menudrop">Tooltip text</span>
-</div>
-</body>
+      <!-- ========================================== -->
+    <script type="text/javascript" src="script/bulma.js"  crossorigin="anonymous"></script>
+    <script type="text/javascript" src="script/w3.js" crossorigin="anonymous"></script>
+    <script type="text/javascript" src="script/index.js"  crossorigin="anonymous"></script>
+  </body>
 </html>
