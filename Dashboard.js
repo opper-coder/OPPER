@@ -22,6 +22,33 @@ III. KEPERLUAN DASAR
   - iklan
   - marketing
   - keuangan
+perbaiki
+===============================================================================================================================
+
+home
+card user admin
+user registration
+kota administrasi
+active
+login
+shopping
+	ceckout
+	pending order
+	shipping
+	success
+	complain
+	retur
+	lost/hilang
+	rusak
+	palsu
+	user menolak
+	penjual curang
+	
+transaction
+
+finance
+
+
 
 ===============================================================================================================================
 PERSIAPAN KERJA
