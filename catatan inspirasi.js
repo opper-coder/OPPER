@@ -13,5 +13,11 @@
   - update stock gaji 2 juta/bln
   - kelola packing 2 juta/bln
 
-
+- peralatan 
+  - print qrcode
+  - barcode reader
+  - app barcode reader
+  - kemasan dan lakban dari opper kelas 1,2,3
+  - 
+  
 */
