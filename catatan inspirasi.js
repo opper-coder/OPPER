@@ -38,6 +38,11 @@
 
 - antar kota
   - mobil
+  - ferri
+  - body
+  - kapal
+  - pesawat
+  - kereta api
   - 
 
 
