@@ -18,6 +18,28 @@
   - barcode reader
   - app barcode reader
   - kemasan dan lakban dari opper kelas 1,2,3
+  - banner opper
+   
+- pemetaan opper 
+  - pemetaan toko dan warung merchand
+  - pemetaan agen wilayah
+  
+/* PENGIRIMAN
+-------------------------------------------------------------------------------------------
+- class pengiriman
+  - kirim nunggu sirkulasi
+  - kirim langsung
+  - pickup
+  - truck
+  - orang
+  - berkas
+  - pemanas
+  - pendingin 
+
+- antar kota
+  - mobil
   - 
+
+
   
 */
